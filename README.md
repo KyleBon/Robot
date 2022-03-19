@@ -1,4 +1,4 @@
-# Robot v1.0.0
+# Robot 
 
 ### Creators Najeeb Bay, Jaziah Weldon, Kyle Bonvillian
 
