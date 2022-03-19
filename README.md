@@ -1,9 +1,11 @@
 # Robot
 creators Najeeb Bay, Jaziah Weldon, Kyle Bonvillian
 
+All code was in python made in the rasberry pie 
+
 Used a rasberry pie 4 witha DC motor and 4 seprate mmotoorized wheels
 
-Have to download and update lynx on rasberry pie inorder to use
+Have to download Linux and update lynx on rasberry pie inorder to use
 
 Robot functionalities are move forwards, backwards, pivot left and right
 
