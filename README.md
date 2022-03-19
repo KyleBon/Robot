@@ -1,5 +1,5 @@
 # Robot
-creators Najeeb Bay, Jaziah Weldon
+creators Najeeb Bay, Jaziah Weldon, Kyle Bonvillian
 
 Used a rasberry pie 4 witha DC motor and 4 seprate mmotoorized wheels
 
